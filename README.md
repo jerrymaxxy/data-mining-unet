@@ -21,3 +21,14 @@ http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar
 分割图：
 
 ![github-large](https://github.com/jerrymaxxy/data-mining-unet/blob/master/image/y_hat.png)
+
+所需包：
+
+tensorflow-gpu
+keras
+scikit-learn
+hyperas
+pandas
+deepdish
+matplotlib
+ipykernel
